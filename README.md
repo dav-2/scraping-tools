@@ -3,7 +3,7 @@ A collection of small, useful tools and scripts designed to automate tasks, solv
 
 ### List of Tools:
 
-1. **[Medium Scraper](#medium-scraper)**
+1. **[Medium Scraper](#1-medium-scraper)**
    A script to scrape author information and article titles from Medium using the ScraperAPI service.
 
 ---
