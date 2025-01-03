@@ -1,5 +1,5 @@
-# small-tools
-A collection of small, useful tools and scripts designed to automate tasks, solve everyday problems, or experiment with new ideas. These lightweight projects are quick to build and perfect for personal use or as learning resources.
+# scraping-tools
+A collection of lightweight web scraping tools focused on gathering and analyzing data from social media and online accounts. These scripts are designed to automate the extraction of useful insights, such as engagement metrics and connections (e.g., followers and follow-back statuses), offering an efficient way to track and manage your online presence. Perfect for self-monitoring, data collection, and experimentation with web scraping techniques.
 
 ### List of Tools:
 
