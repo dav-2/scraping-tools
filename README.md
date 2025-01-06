@@ -7,8 +7,8 @@ A collection of lightweight web scraping tools focused on gathering and analyzin
    A script to scrape author information and article titles from Medium using the ScraperAPI service.
 2. **[GitHub User Analytics Script](#2-github-user-analytics-script)**
    A script to fetch and analyze detailed information about a GitHub user's repositories, stargazers, and follow status.
-3. **[Instagram Unfollowers Checker (Educational Tool)](#instagram-unfollowers-checker-educational-tool)**  
-   A JavaScript tool to identify Instagram users who are not following you back by comparing your followers and following lists.
+3. **[Instagram Unfollowers Checker (Educational Tool)](#3-instagram-unfollowers-checker---educational-tool)** 
+   A JavaScript tool that hypothetically identifies Instagram users who are not following you back by comparing your followers and following lists.
 
 
 ---
@@ -143,7 +143,7 @@ Please use this tool responsibly and at your own risk.
 
 ---
 
-## 3. Instagram Unfollowers Checker (Educational Tool)
+## 3. Instagram Unfollowers Checker - Educational Tool
 
 This JavaScript code is **strictly intended for educational purposes only**, to learn JavaScript, DOM manipulation, and web scraping. It would hypothetically allow you to identify users who are not following you back on Instagram. The script automates the process of comparing your followers and the accounts you follow to determine "non-followers." It leverages JavaScript's DOM manipulation capabilities and asynchronous operations to interact with Instagram's web interface. **It is not meant to be used directly on Instagram’s website, and must never be run on Instagram or any other live platform.**
 
