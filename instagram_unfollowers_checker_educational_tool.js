@@ -1,3 +1,20 @@
+/**
+ * Instagram Unfollowers Checker (Educational Tool)
+ * 
+ * **Important: This tool is strictly for educational purposes only and MUST NOT be used on Instagram or any live platform.**
+ * 
+ * It demonstrates basic JavaScript, DOM manipulation, and web scraping techniques. The code hypothetically identifies Instagram users who are not following you back by comparing your followers and the accounts you follow. 
+ * 
+ * **Disclaimer**:
+ * - This tool is for learning only and must not be used on Instagram or any live platform.
+ * - You are responsible for complying with Instagram’s Terms of Service and any applicable laws.
+ * - The author is not liable for any consequences, including account bans or legal issues.
+ * 
+ * **Important Notes**:
+ * - The tool is not designed for real-world use or to circumvent Instagram’s security.
+ * - The author does not support misuse or violations of platform policies.
+ */
+
 // Utility function to wait for an element to appear in the DOM
 const waitForElement = (selector, timeout = 10000) => {
   return new Promise((resolve, reject) => {
