@@ -3,11 +3,11 @@ A collection of lightweight web scraping tools focused on gathering and analyzin
 
 ### List of Tools:
 
-1. **[Medium Scraper](##1-medium-scraper)**
+1. **[Medium Scraper](#1-medium-scraper)**
    A script to scrape author information and article titles from Medium using the ScraperAPI service.
-2. **[GitHub User Analytics Script](##2-github-user-analytics-script)**
+2. **[GitHub User Analytics Script](#2-github-user-analytics-script)**
    A script to fetch and analyze detailed information about a GitHub user's repositories, stargazers, and follow status.
-3. **[Instagram Unfollowers Checker (Educational Tool)](##3-instagram-unfollowers-checker-(educational-tool))**  
+3. **[Instagram Unfollowers Checker (Educational Tool)](#3-instagram-unfollowers-checker-(educational-tool))**  
    A JavaScript tool to identify Instagram users who are not following you back by comparing your followers and following lists.
 
 
