@@ -1,3 +1,19 @@
+"""
+Medium Scraper (Educational Tool)
+
+**Important: This tool is strictly for educational purposes only and MUST NOT be used on Medium or any live platform.**
+
+This script demonstrates basic Python web scraping techniques using requests and BeautifulSoup. It hypothetically fetches publicly available author information from Medium, including the author's name, bio, and a list of their articles. The script uses ScraperAPI for rendering JavaScript content and bypassing scraping restrictions.
+
+**Disclaimer**:
+- This tool is for learning purposes only and must not be used on Medium or any live platform.
+- You are responsible for complying with Medium’s Terms of Service and any applicable laws.
+- The author is not liable for any consequences, including account bans or legal issues.
+
+**Important Notes**:
+- The script is not intended for real-world use or to bypass Medium’s security measures.
+- The author does not endorse or support misuse or violations of platform policies.
+"""
 
 import requests
 from bs4 import BeautifulSoup
