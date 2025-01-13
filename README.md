@@ -27,7 +27,7 @@ This Python script provides tools for analyzing a GitHub user's repositories, st
 - **Follow Status Comparison**:
   - Identifies users who:
     - Don't follow back.
-    - Are not followed by the account.
+    - Are not followed back by the account.
 - **Rate Limit Monitoring**:
   - Automatically handles GitHub API rate limits.
   - Displays reset time and manages wait periods efficiently.
