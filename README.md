@@ -1,5 +1,5 @@
 # scraping-tools
-A collection of lightweight web scraping tools focused on gathering and analyzing data from social media and online accounts. These scripts are designed to automate the extraction of useful insights, such as engagement metrics and connections (e.g., followers and follow-back statuses), offering an efficient way to track and manage your online presence. Perfect for self-monitoring, data collection, and experimentation with web scraping techniques. **Note: Tools 2 and 3 are strictly for learning purposes and must not be used on their respective platforms.**
+A collection of lightweight web scraping tools designed to empower users to gather and analyze data from their own social media and online accounts. These scripts are designed to automate the extraction of useful insights, such as engagement metrics and connections (e.g., followers and follow-back statuses), offering an efficient way to track and manage your online presence. Perfect for self-monitoring, data collection, and experimentation with web scraping techniques. **Note: Tools 2 and 3 are strictly for learning purposes and must not be used on their respective platforms.**
 
 ### List of Tools:
 
